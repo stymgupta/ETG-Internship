@@ -1,1 +1,1 @@
-# ETG-Intership
+# ETG-Internship
